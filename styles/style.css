@@ -1,0 +1,97 @@
+body{
+  background-image:  url('E:\files\sdc 3-2\phase_1\resume\pictures\avatar.png');
+  background-size: cover;
+transform-style: flat;
+}
+.card
+{
+  background-color: white;
+  width: 35%;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px white;
+  text-align: center;
+  padding: 1%;
+  margin: 1%;
+  font-family: century gothic;
+}
+.card:hover{
+  background-color: skyblue;
+  transition: all linear 1s;
+  transform: scale(1.1);
+  box-shadow: 0px 00px 400px 10px rgba(1,1,1,0.5);
+
+
+
+}
+img{
+  width: 30%;
+
+}
+
+
+.mainDiv{
+  display: flex;
+  background-color: black;
+  border-radius: 10px;
+  justify-content: space-between;
+  width: inherit;
+
+}
+h1
+{
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: and then it ends;
+  border-radius: 10px;
+}
+.leftDiv
+{
+background-color: skyblue;
+width: 25%;
+height: 40%;
+border-radius: 10px;
+box-shadow: 2px 2px 2px black;
+text-align: center;
+padding: 1%;
+margin: 1%;
+font-family: century gothic;
+
+}
+.leftDiv:hover
+{
+background-color: white;
+transition: all linear 0.5s;
+transform-origin: 30% 30%;
+transform: scale(1.1);
+box-shadow: 0px 00px 400px 10px rgba(0,0,0,0.5);
+
+}
+
+.rightDiv
+{
+background-color: skyblue;
+/*background-image: url('pictures\gradient1.jpg');*/
+width: 70%;
+border-radius: 10px;
+box-shadow: 2px 2px 2px black;
+
+text-align: left;
+padding: 1%;
+margin: 1%;
+font-family: century gothic;
+}
+.rightDiv:hover
+{
+background-color: white;
+height: auto;
+transition: all linear 0.5s;
+/*transform-origin: 10% 10%;*/
+transform: scale(1.05);
+border-radius: 10px;
+box-shadow: 0px 0px 400px 0px rgba(0,0,0,0.5);
+transform: translate(-15%);
+/*transform: scale(1.2);*/
+
+
+}
