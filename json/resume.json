@@ -1,0 +1,40 @@
+{
+  "profile":{
+    "NAME":"Brahmaiah",
+    "img":"pictures/avatar.png",
+    "COLLEGE":"QIS",
+    "NUMBER":"7995759412",
+    "MAIL":"bramaiaheemani39@gmail.com"
+
+
+  },
+    "Education":[
+      {
+      "DEGREE":"B.TECH",
+      "COLLEGE":"QIS",
+      "BRANCH":"CSE",
+      "CGPA":"7.26",
+      "YEAROFPASSING":"2020"
+    },
+    {
+    "DEGREE":"INTERMEDIATE",
+    "COLLEGE":"SRI CHAITANYA JR. COLLEGE",
+    "BRANCH":"MPC",
+    "CGPA":"92.1",
+    "YEAROFPASSING":"2016"
+  },
+  {
+  "DEGREE":"SSC",
+  "COLLEGE":"CBHS",
+  "BRANCH":"ENGLISH MEDIUM",
+  "CGPA":"8.5",
+  "YEAROFPASSING":"2014"
+  }
+],
+"Skills":{
+  "OS":"Windows 7, Windows 8.1, Windows 10",
+  "PROGRAMMING_SKILLS":"HTML,C,C++,JS,"
+
+}
+
+}
